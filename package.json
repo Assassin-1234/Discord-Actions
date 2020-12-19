@@ -1,0 +1,23 @@
+{
+  "name": "discord-actions",
+  "version": "1.0.0",
+  "description": "Use this to get a random gif of hug, kiss, slap and many more !!!!!!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "actions",
+    "hug",
+    "kiss",
+    "slap"
+  ],
+  "author": "the_ramann",
+  "license": "ISC",
+  "dependencies": {
+    "eslint-config-airbnb-base": "^14.2.1",
+    "superagent": "^6.1.0"
+  },
+  "devDependencies": {}
+}
