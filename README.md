@@ -8,9 +8,7 @@ Use it to get gif for commands like pat, slap, poke, hug and more!!!!
 
 # Usage
 <code>
-
-</code>
-<code class="hljs javascript">
-<span class="hljs-built_in">const { hug } = require('Discord-Actions');
+const { hug } = require('Discord-Actions');
 var HugGif = hug();
-console.log(HugGif);<span class="hljs-comment"> //Prints a random Hug Gif</span></span>;</code>
+console.log(HugGif); //Prints a random Hug Gif;
+</code>
