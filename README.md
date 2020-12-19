@@ -2,7 +2,7 @@
 Use it to get gif for commands like pat, slap, poke, hug and more!!!!
 
 # Installation
-<b><a href = "https://www.npmjs.com/package/Discord-Actions"> npm: </a><b> 
+<b><a href = "https://www.npmjs.com/package/discord-actions"> npm: </a><b> 
 <p>
 <code> npm install Discord-Actions </code>
 
