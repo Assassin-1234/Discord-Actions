@@ -14,14 +14,14 @@ console.log(HugGif); //Prints a random Hug Gif; <br>
 </code>
 
 # Other emotes 😎
-There are these emotes :-
-📝hug
-📝kiss
-📝pat
-📝poke
-📝slap
-📝tickle
-📝smug
+There are these emotes :- <br>
+📝hug <br> 
+📝kiss <br>
+📝pat <br>
+📝poke <br>
+📝slap <br>
+📝tickle <br>
+📝smug <br>
 
 # Like the package?
 <a href = "https://www.buymeacoffee.com/TheRamann">
