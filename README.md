@@ -9,8 +9,7 @@ Use it to get gif for commands like pat, slap, poke, hug and more!!!!
 # Usage ✏
 <pre class = "prettyprint">
 const { hug } = require('discord-actions');
-var HugGif = hug();
-console.log(HugGif); //Prints a random Hug Gif; 
+console.log(hug()); //Prints a random Hug Gif;
 </pre>
 # Other emotes 😎
 There are these emotes :- <br>
