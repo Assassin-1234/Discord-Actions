@@ -49,3 +49,11 @@ function smug(){
     var gif = body.url;
     return gif;
 }
+
+module.exports.hug = hug;
+module.exports.kiss = kiss;
+module.exports.poke = poke;
+module.exports.pat = pat;
+module.exports.slap = slap;
+module.exports.tickle = tickle;
+module.exports.smug = smug;
