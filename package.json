@@ -16,8 +16,15 @@
   "author": "the_ramann",
   "license": "ISC",
   "dependencies": {
-    "eslint-config-airbnb-base": "^14.2.1",
     "superagent": "^6.1.0"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheRamann/Discord-Actions.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TheRamann/Discord-Actions/issues"
+  },
+  "homepage": "https://github.com/TheRamann/Discord-Actions#readme"
 }
