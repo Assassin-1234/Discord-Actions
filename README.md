@@ -10,7 +10,7 @@ Use it to get gif for commands like pat, slap, poke, hug and more!!!!
 <pre class = "prettyprint">
 const { hug } = require('discord-actions');
 var HugGif = hug();
-console.log(HugGif); //Prints a random Hug Gif; 
+message.channel.send(HugGif); // sends a random hug gif
 </pre>
 # Other emotes 😎
 There are these emotes :- <br>
@@ -21,7 +21,9 @@ There are these emotes :- <br>
 📝slap <br>
 📝tickle <br>
 📝smug <br>
-
+📝neko <br>
+📝ngif <br>
+📝cuddle <br>
 # Like the package?
 <a href = "https://www.buymeacoffee.com/TheRamann">
 Support the creator here
