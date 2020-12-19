@@ -63,7 +63,24 @@ function smug(){
     return gif;}
     my()
 }
-
+function neko() {
+    async function my(){
+    var {
+        body
+    } = await superagent.get("https://nekos.life/api/neko");
+    var gif = body.url;
+    return gif;}
+    my()
+}
+function nep() {
+    async function my(){
+    var {
+        body
+    } = await superagent.get("https://nekos.life/api/neko");
+    var gif = body.url;
+    return gif;}
+    my()
+}
 module.exports.hug = hug;
 module.exports.kiss = kiss;
 module.exports.poke = poke;
@@ -71,3 +88,4 @@ module.exports.pat = pat;
 module.exports.slap = slap;
 module.exports.tickle = tickle;
 module.exports.smug = smug;
+module.exports.smug = neko;
