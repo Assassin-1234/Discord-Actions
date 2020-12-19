@@ -7,12 +7,11 @@ Use it to get gif for commands like pat, slap, poke, hug and more!!!!
 <code> npm install Discord-Actions </code>
 
 # Usage ✏
-<code>
-const { hug } = require('Discord-Actions'); <br>
-var HugGif = hug(); <br>
-console.log(HugGif); //Prints a random Hug Gif; <br>
-</code>
-
+<pre class = "prettyprint">
+const { hug } = require('discord-actions');
+var HugGif = hug();
+console.log(HugGif); //Prints a random Hug Gif; 
+</pre>
 # Other emotes 😎
 There are these emotes :- <br>
 📝hug <br> 
